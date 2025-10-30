@@ -1,14 +1,13 @@
 {
-  "background_color": "#d1cf14",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "Shona Spark",
   "short_name": "Sspark",
+  "description": "Shona Name generator",
   "start_url": "/Shonaspark/index.html",
   "scope": "/Shonaspark/",
-  "theme_color": "#de1818",
+  "display": "standalone",
   "orientation": "any",
-  "description": "Shona Name generator",
+  "background_color": "#d1cf14",
+  "theme_color": "#de1818",
   "categories": [
     "education",
     "entertainment"
