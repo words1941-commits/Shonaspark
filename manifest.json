@@ -1,0 +1,17 @@
+{
+  "background_color": "#d1cf14",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Shonaspark",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Sspark",
+  "start_url": "/https://words1941-commits.github.io/Shonaspark/",
+  "theme_color": "#de1818",
+  "id": "Shonaspark ",
+  "description": "Shona Name generator",
+  "categories": [
+    "education",
+    "entertainment"
+  ]
+}
