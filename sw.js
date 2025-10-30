@@ -5,9 +5,8 @@ const urlsToCache = [
   '/Shonaspark/manifest.json',
   '/Shonaspark/icons/icon-192.png',
   '/Shonaspark/icons/icon-512.png',
-  // Add your CSS or JS files here, e.g.:
-  // '/Shonaspark/style.css',
-  // '/Shonaspark/app.js',
+  '/Shonaspark/style.css'
+  // Add JS files here if you have any
 ];
 
 self.addEventListener('install', event => {
